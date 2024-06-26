@@ -1,0 +1,81 @@
+.nut_dang_nhap {
+    -fx-border-color: #FF3366;
+    -fx-cursor: hand;
+    -fx-border-radius: 10px;
+    -fx-background-color: #EC4899;
+    -fx-background-radius: 10px;
+    
+}
+.nut_dang_nhap:hover {
+    
+    -fx-background-color:#bd3a7a;
+}
+.switch_button {
+    -fx-background-color:  WHITE;
+    
+}
+.switch_button:hover {
+    -fx-background-color: #cfcfcf;
+
+}
+.switch_button:focus {
+    -fx-background-color: #bd3a7a
+}
+.css_anchor {
+    -fx-background-color: WHITE;
+    -fx-border-radius:10px;
+    -fx-background-radius: 10px;
+    
+}
+.xem_chi_tiet_effect {
+    -fx-background-color: WHITE
+}
+.text_field{
+    -fx-border-color: black;
+    -fx-background-color: WHITE;
+    -fx-border-width: .8px;
+    -fx-border-radius: 4px;
+}
+.table-view{
+    -fx-padding:0px;
+    -fx-background-color: transparent;
+    -fx-border-color: #F3B7CF;
+    -fx-border-width: 2px;
+    -fx-border-radius: 8px;
+}
+.table-view .column-header{
+    -fx-background-color: WHITE;
+    -fx-border-color:#BABABA;
+}
+.table-view .column-header-background{
+    -fx-background-color: WHITE;
+    -fx-background-inset: 0 0 0 0;
+    -fx-background-radius: 8px 8px 0px 0px;
+
+}
+.table-view .column-header, .filter{
+    -fx-background-color: transparent;
+    -fx-size: 30px;
+}
+.button_dich_vu{
+    -fx-background-color: WHITE;
+}
+.search{
+    -fx-padding: 0px 0px 0px 28px;
+}
+.nutchung {
+    -fx-border-color: black;
+    -fx-cursor: hand;
+    -fx-border-radius: 10px;
+    -fx-background-color: #F3B7CF;
+    -fx-background-radius: 10px;}
+.chart-bar {
+        -fx-bar-fill: pink;
+    }
+.nuthuy{
+    -fx-border-color: #ddd;
+    -fx-cursor: hand;
+    -fx-border-radius: 10px;
+    -fx-background-color: #e4e6eb;
+    -fx-background-radius: 10px;
+}
