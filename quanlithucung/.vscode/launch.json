@@ -1,0 +1,78 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "petDAL",
+            "request": "launch",
+            "mainClass": "qltc.DataAccessLayer.petDAL",
+            "projectName": "quanlithucung"
+        },
+        {
+            "type": "java",
+            "name": "Client",
+            "request": "launch",
+            "mainClass": "qltc.BussinessLogicLayer.Client",
+            "projectName": "quanlithucung"
+        },
+        {
+            "type": "java",
+            "name": "Server",
+            "request": "launch",
+            "mainClass": "qltc.BussinessLogicLayer.Server",
+            "projectName": "quanlithucung"
+        },
+        {
+            "type": "java",
+            "name": "CustomerController",
+            "request": "launch",
+            "mainClass": "qltc.BussinessLogicLayer.CustomerController",
+            "projectName": "quanlithucung"
+        },
+        {
+            "type": "java",
+            "name": "LogController",
+            "request": "launch",
+            "mainClass": "qltc.BussinessLogicLayer.LogController",
+            "projectName": "quanlithucung"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "qltc.PresentationLayer.test",
+            "projectName": "quanlithucung"
+        },
+        {
+            "type": "java",
+            "name": "testjd",
+            "request": "launch",
+            "mainClass": "qltc.DataAccessLayer.testjd",
+            "projectName": "quanlithucung"
+        },
+        {
+            "type": "java",
+            "name": "AppTest",
+            "request": "launch",
+            "mainClass": "qltc.AppTest",
+            "projectName": "quanlithucung"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "qltc.PresentationLayer.App",
+            "projectName": "quanlithucung",
+            "vmArgs": "--module-path \"D:/Program Files/Java/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
